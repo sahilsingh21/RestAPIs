@@ -144,7 +144,7 @@ Access at `http://localhost:3000/api/...`
 
 ```bash
 cd student-api
-go run main.go
+go run main.go -config config/local.yaml
 ```
 
 Access at `http://localhost:8080/...`
